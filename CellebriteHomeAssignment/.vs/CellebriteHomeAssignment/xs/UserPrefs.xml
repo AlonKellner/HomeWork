@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{00B31E55-F09E-4498-AD88-E5A2D723BEA5}|Default">
+  <MonoDevelop.Ide.ItemProperties.CellebriteHomeAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CellebriteHomeAssignment/Program.cs">
+    <Files>
+      <File FileName="CellebriteHomeAssignment/Program.cs" Line="18" Column="29" />
+      <File FileName="CellebriteHomeAssignment/LineReader.cs" Line="6" Column="12" />
+      <File FileName="CellebriteHomeAssignment/FileParser.cs" Line="24" Column="13" />
+      <File FileName="CellebriteHomeAssignment/ResultFormatter.cs" Line="7" Column="25" />
+      <File FileName="CellebriteHomeAssignment/HtmlDispatcher.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CellebriteHomeAssignment" expanded="True">
+            <Node name="CellebriteHomeAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

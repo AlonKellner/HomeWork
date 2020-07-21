@@ -1,0 +1,13 @@
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/bin/Debug/netcoreapp3.1/CellebriteHomeAssignment.deps.json
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/bin/Debug/netcoreapp3.1/CellebriteHomeAssignment.runtimeconfig.json
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/bin/Debug/netcoreapp3.1/CellebriteHomeAssignment.runtimeconfig.dev.json
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/bin/Debug/netcoreapp3.1/CellebriteHomeAssignment.dll
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/bin/Debug/netcoreapp3.1/CellebriteHomeAssignment.pdb
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/obj/Debug/netcoreapp3.1/CellebriteHomeAssignment.csproj.CoreCompileInputs.cache
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/obj/Debug/netcoreapp3.1/CellebriteHomeAssignment.AssemblyInfoInputs.cache
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/obj/Debug/netcoreapp3.1/CellebriteHomeAssignment.AssemblyInfo.cs
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/obj/Debug/netcoreapp3.1/CellebriteHomeAssignment.csproj.CopyComplete
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/obj/Debug/netcoreapp3.1/CellebriteHomeAssignment.dll
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/obj/Debug/netcoreapp3.1/CellebriteHomeAssignment.pdb
+/Users/yarintamam/Desktop/Home interview Cellebrite/CellebriteHomeAssignment/CellebriteHomeAssignment/obj/Debug/netcoreapp3.1/CellebriteHomeAssignment.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+Dear Yarin,
+Following our conversation, please review the attached assignment.
+The file "ex_v8" is a text file (you can open it with any text editor) containing contact information extracted from a mobile phone.
+Your assignment is to understand the proprietary(קניינית, של הבעלים) format of the file and write a short script to get as much information as you can about the contacts.
+To help you in your effort, we've inserted the following entry into the file:
+ 
+first name: Cary
+last name: Thompson
+phone: 0467674021
+time: 2013-06-11 15:57:19
+ 
+Please use the attached file to develop your solution. We will run your solution on this file, and on a different input file, complying with the same format.
+You may use any language you feel comfortable with, as long as it's C#, Python or Java.
+When you send back the script, please don’t attach the source code to your email, as our anti-virus systems block these mails. Instead, please upload the source code somewhere (e.g. Google Drive) and send a link.
+If you need anything, you can contact me through this email address.
+ 
+Good luck!
